@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Tibetn Prayer Application for daily uses<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.dailyprayer" target="_blank"> Daily Prayer(Tibetan)</a>.</h4>
+<h4 align="center">Tibetan Prayer Application for daily uses<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.dailyprayer" target="_blank"> Daily Prayer(Tibetan)</a>.</h4>
 
 <p align="center">
   <a href="https://instagram.com/kontas
