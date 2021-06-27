@@ -1,71 +1,53 @@
-<h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://miro.medium.com/fit/c/164/164/1*BJgzYxY21hX5V27k7jckpg.png" alt="Markdownify" width="200"></a>
-  <br>
-  Kunchok Tashi(CodingWithTashi)
-  <br>
-</h1>
+## Hi, I'm [Kunchok!](https://codingwithtashi.medium.com/) 👋
 
-<h4 align="center">Tibetan Prayer Application for daily uses<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.dailyprayer" target="_blank"> Daily Prayer(Tibetan)</a>.</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithtashi&label=Views&color=blue&style=plastic" alt="codingwithtashi" /> </p>
 
-<p align="center">
-  <a href="https://instagram.com/kontas
-           35">
-    <img src="https://github.com/CodingWithTashi/Tibetan-Prayer-App/blob/master/app/src/main/res/drawable/instagram.png"
-         alt="Kunchok Tashi">
-  </a>
-  <a href="https://www.facebook.com/techtibet">
-      <img src="https://github.com/CodingWithTashi/Tibetan-Prayer-App/blob/master/app/src/main/res/drawable/facebook.png">
-  </a>
-  <a href="https://www.paypal.com/paypalme/kontashi35">
-    <img src="https://github.com/CodingWithTashi/Tibetan-Prayer-App/blob/master/app/src/main/res/drawable/paypal.png">
-  </a>
-</p>
+<a href="https://twitter.com/CodingWithTashi">
+  <img align="left" alt="Kunchok Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kontashi35/">
+  <img align="left" alt="Kunchok's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/codingwithtashi">
+  <img align="left" alt="Kunchok's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="http://instagram.com/kontashi35">
+  <img align="left" alt="Kunchok's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/techtibet/">
+  <img align="left" alt="Kunchok's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/c/codingwithtashi/">
+  <img align="left" alt="Kunchok's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-<p align="center">
-  <a href="#demo">Demo</a> •
-  <a href="#download">Download</a> •
-  <a href="#key-features">Features</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
+<br/>
+<br/>
 
-## Demo
-![screenshot](https://raw.githubusercontent.com/CodingWithTashi/Tibetan-Prayer-App/master/app/src/assets/demo.png)
 
-## Download
+- 🔭 I’m currently working for [Unvired](https://unvired.com/).
+- 🌱 I’m currently learning more about Flutter.
+- 💬 Ask me about Flutter/Android.
+- 📫 How to reach me: [Instagram - @kontashi35](http://instagram.com/kontashi35)
 
-You can [download](https://play.google.com/store/apps/details?id=com.codingwithtashi.dailyprayer) the latest installable version of Daily Prayer(Tibetan) for android.
+[![Linkedin: imthepk](https://img.shields.io/badge/-codingwithtashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kontashi35/)](https://www.linkedin.com/in/kontashi35/)
+[![GitHub codingwithtashi](https://img.shields.io/github/followers/codingwithtashi?label=follow&style=social)](https://github.com/codingwithtashi)
 
-## Key Features
 
-* Most common prayer with audio support
-* Notification and routine  
-* Auto scroll and custom font size
-* Small size and user friendly
-* Offline and database cache
-* Ad free and free app
-* For now android only
+**Languages and Tools:**  
 
-## Credits
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-This software uses the following resources:
+<!-- <a href="https://github.com/codingwithtashi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithtashi&theme=light&hide_langs_below=1" />
+</a> -->
+<a href="https://github.com/codingwithtashi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithtashi&show_icons=true&theme=light&line_height=27" alt="Kunchok's github stats"/>
+</a>
+<div align="center">
 
-- Thanks to [tenzinprogrammer@gmail.com](tenzinprogrammer@gmail.com) for audio assets
-- [TCV Prayer](https://tcv.org.in/)
-- [Android mvvm clean architecture](https://developer.android.com/jetpack/getting-started)
+### Show some ❤️ by starring some of the repositories!
 
-## Support
-
-<a href="https://www.buymeacoffee.com/codingwithtashi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## License
-
-MIT
-
----
-
-> Medium [@codingwithtashi](https://codingwithtashi.medium.com/) &nbsp;&middot;&nbsp;
-> GitHub [@codingwithtashi](https://github.com/codingwithtashi) &nbsp;&middot;&nbsp;
-> Twitter [@codingwithtashi](https://twitter.com/CodingWithTashi/)
-
+</div>
