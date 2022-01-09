@@ -28,7 +28,7 @@
 - 🔭 I’m currently working for [Unvired](https://unvired.com/).
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Flutter/Android.
-- 📫 How to reach me: [Instagram - @kontashi35](http://instagram.com/kharagkunchok)
+- 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
 [![Linkedin: kontashi35](https://img.shields.io/badge/-kontashi35-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kontashi35/)](https://www.linkedin.com/in/kontashi35/)
 [![GitHub codingwithtashi](https://img.shields.io/github/followers/codingwithtashi?label=follow&style=social)](https://github.com/codingwithtashi)
