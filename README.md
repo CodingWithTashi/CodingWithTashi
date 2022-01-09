@@ -11,10 +11,10 @@
 <a href="https://github.com/codingwithtashi">
   <img align="left" alt="Kunchok's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="http://instagram.com/kontashi35">
+<a href="http://instagram.com/kharagkunchok">
   <img align="left" alt="Kunchok's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/techtibet/">
+<a href="https://www.facebook.com/kharagedition/">
   <img align="left" alt="Kunchok's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/c/codingwithtashi/">
