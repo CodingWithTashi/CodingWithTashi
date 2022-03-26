@@ -24,16 +24,18 @@
 <br/>
 <br/>
 
+<a href="https://stackoverflow.com/users/9236525/codingwithtashi"><img src="https://stackoverflow.com/users/flair/9236525.png" width="208" height="58" alt="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 - 🔭 I’m currently working for [Unvired](https://unvired.com/).
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Flutter/Android.
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
+
 [![Linkedin: kontashi35](https://img.shields.io/badge/-kontashi35-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kontashi35/)](https://www.linkedin.com/in/kontashi35/)
 [![GitHub codingwithtashi](https://img.shields.io/github/followers/codingwithtashi?label=follow&style=social)](https://github.com/codingwithtashi)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCBLzUH7iDyY3pZWslcPJhJA?style=social)](https://youtube.com/c/codingwithtashi)   
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://codingwithtashi.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://codingwithtashi.medium.com/)   
 
 
 **Languages and Tools:**  
