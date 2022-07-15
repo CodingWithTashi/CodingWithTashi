@@ -29,7 +29,7 @@
 - 🔭 I’m currently working for [Unvired](https://unvired.com/).
 - 🌱 I’m currently learning more about Flutter clean architecture and Figma design.
 - 💬 Ask me about Flutter/Android.
-- 📖 I also write lame post on [medium](https://codingwithtashi.medium.com/).
+- 📖 I write shitty post on [medium](https://codingwithtashi.medium.com/).
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
 
