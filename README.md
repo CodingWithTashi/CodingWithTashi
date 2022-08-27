@@ -26,9 +26,10 @@
 
 <a href="https://stackoverflow.com/users/9236525/codingwithtashi"><img src="https://stackoverflow.com/users/flair/9236525.png" width="208" height="58" alt="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-- 🔭 I’m currently working for [Unvired](https://unvired.com/).
+- 🔭 I’m currently working for [Geekyants](https://geekyants.com/).
 - 🌱 I’m currently learning more about Flutter clean architecture and Figma design.
 - 💬 Ask me about Flutter/Android.
+- 📱 I build crappy app whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
 - 📖 I write shitty post on [medium](https://codingwithtashi.medium.com/). Curated list of most read post [here](#flutter-tutorials) 👇🏼
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
@@ -53,6 +54,70 @@
 </a> -->
 <div align="center">   
 
+  ## Applications that are open source and available to download
+
+<table>
+	<tbody width="100%">
+	<tr>
+		<th>Project</th>	
+		<th>Links</th>
+	</tr>
+	<tr>
+		<td>
+			<h3>Tibetan Keyboard</h3>
+			<p>Keyboard application built with native android with kotlin. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.kharagedition.tibetankeyboard&hl=en_IN&gl=US">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Tibetan Keyboard on Google Play" />
+</a>
+			</div>
+		</td>
+	</tr>
+    	<tr>
+		<td>
+			<h3>Tibetan Prayer</h3>
+			<p>Prayer application built on top of flutter table calender. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.tibetan_calender&hl=en_IN&gl=US">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Tibetan Prayer on Google Play" />
+</a>
+			</div>
+		</td>
+	</tr>
+    	<tr>
+		<td>
+			<h3>Tibetan Game(Lundup Journey)</h3>
+			<p>Tibetan single player journey game built with unity game engine. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.KharagEdition.TibetanGameLundupJourney&hl=en_IN&gl=US">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Lundup Journey on Google Play" />
+</a>
+			</div>
+		</td>
+	</tr>
+    	<tr>
+		<td>
+			<h3>Tibetan Language Learning App</h3>
+			<p>Language learning application built with flutter and flutter bloc state management. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.kharagedition.tibetan_language_learning_app&hl=en_IN&gl=US">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Tibetan Language Learning App on Google Play" />
+</a>
+			</div>
+		</td>
+	</tr>
+	</tbody>
+</table>
+
+  
 ## Flutter Tutorials
 
 Beside from regularely sharing Flutter course and tutorial, I usually publish my articles on [Medium](https://codingwithtashi.medium.com/) whenever I have the chance (and the ideas):
