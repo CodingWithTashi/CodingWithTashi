@@ -1,4 +1,4 @@
-## Hi, I'm [Kunchok!](https://codingwithtashi.medium.com/) 👋
+## Hi, I'm [Tashi!](https://codingwithtashi.medium.com/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithtashi&label=Views&color=blue&style=plastic" alt="codingwithtashi" /> </p>
 
