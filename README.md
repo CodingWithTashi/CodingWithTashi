@@ -29,7 +29,7 @@
 - 🔭 I’m currently working for [Unvired](https://unvired.com/).
 - 🌱 I’m currently learning more about Flutter clean architecture and Figma design.
 - 💬 Ask me about Flutter/Android.
-- 📖 I write shitty post on [medium](https://codingwithtashi.medium.com/).
+- 📖 I write shitty post on [medium](https://codingwithtashi.medium.com/). Curated list of most read post [here](#flutter-tutorials) 👇🏼
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
 
@@ -51,8 +51,25 @@
 <!-- <a href="https://github.com/codingwithtashi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithtashi&show_icons=true&theme=light&line_height=27" alt="Kunchok's github stats"/>
 </a> -->
-<div align="center">
+<div align="center">   
 
-### Show some ❤️ by starring some of the repositories!
+## Flutter Tutorials
+
+Beside from regularely sharing Flutter course and tutorial, I usually publish my articles on [Medium](https://codingwithtashi.medium.com/) whenever I have the chance (and the ideas):
+  
+  
+  
+| **Title**                                                                                                                                                                                                              | **Description**                                                                                                                                                                                                                                                                                                                 | **Type** | **Publish Date** |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------|
+| [**Flutter best practices**](https://codingwithtashi.medium.com/flutter-best-practices-cc2cd1ee5441)                                                                                     |  Discuss some of the best practices that you can apply while writing flutter/dart code | 📄 Article  | 🗓 Jul 16, 2022     |
+| [**Isolate Flutter/Dart Multithreading**](https://codingwithtashi.medium.com/isoltate-flutter-dart-multithreading-cf5f67de9b46)                                                                                     |   Flutter Isolate implmentation and example | 📄 Article  | 🗓 Aug 27, 2021     |
+| [**Is flutter worth learning in 2022?**](https://codingwithtashi.medium.com/is-learning-flutter-worth-it-in-2022-4c9048edd37c)                                                                                     |   Share some of the statistics and my thought on flutter in 2022 and the future | 📄 Article  | 🗓 Jan 29, 2022     |
+| [**Most used flutter package that every flutter developer should know**](https://codingwithtashi.medium.com/most-used-flutter-package-that-every-flutter-developer-should-know-6d526fe65139)                                                                                     |  Discuss some of the best practices that you can apply while writing flutter/dart code | 📄 Article  | 🗓 Jan 22, 2022     |
+| [**Flutter animated UI**](https://codingwithtashi.medium.com/flutter-animated-ui-8d3b5617d94c)                                                                                     |  Discuss some of the commonly used animation in flutter | 📄 Article  | 🗓 Apr 23, 2021     |
+| [**Flutter interview questions and answers**](https://codingwithtashi.medium.com/flutter-interview-question-and-answer-8cb71438eb61)                                                                                     |  Some of the commonly asked questions during an interview | 📄 Article  | 🗓 Jun 18, 2022     |
+
+
+### Show some ❤️ by starring some of the repositories!   
+
 
 </div>
