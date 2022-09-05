@@ -114,6 +114,19 @@
 			</div>
 		</td>
 	</tr>
+	 	<tr>
+		<td>
+			<h3>Tibetan Dictionary</h3>
+			<p>Chrome extension that let you search for word from pop up or by selecting text from any website by <a href="https://chrome.google.com/webstore/detail/tibetan-dictionary/adfffbhmkignepdggmlpojjplehfcnma">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://chrome.google.com/webstore/detail/tibetan-dictionary/adfffbhmkignepdggmlpojjplehfcnma">
+  <img width="200px" src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/chrome-web-store-icon.png" alt="TibetanDictionary app on Google Chrome" />
+</a>
+			</div>
+		</td>
+	</tr>
 	</tbody>
 </table>
 
