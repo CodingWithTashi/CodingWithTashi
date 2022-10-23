@@ -78,12 +78,25 @@
     	<tr>
 		<td>
 			<h3>Tibetan Calendar</h3>
-			<p>Prayer application built on top of flutter table calender. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+			<p>calendar application built on top of flutter table calender. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
 		</td>
 		<td>
 			<div>
 				<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.tibetan_calender&hl=en_IN&gl=US">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Tibetan Calendar on Google Play" />
+</a>
+			</div>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			<h3>Tibetan Prayer</h3>
+			<p>Prayer application that let you pray daily prayer with audio and prayer count support. I build this application as part of own edition <a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.dailyprayer&hl=en_IN&gl=US">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.tibetan_calender&hl=en_IN&gl=US">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Tibetan Prayer on Google Play" />
 </a>
 			</div>
 		</td>
