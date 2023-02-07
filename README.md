@@ -65,7 +65,7 @@
 	<tr>
 		<td>
 			<h3>Tibetan Keyboard</h3>
-			<p>Keyboard application built with native android with kotlin. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+			<p>Keyboard application built with native android with kotlin. I build this application as part of own edition <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
 		</td>
 		<td>
 			<div>
@@ -78,7 +78,7 @@
     	<tr>
 		<td>
 			<h3>Tibetan Calendar</h3>
-			<p>calendar application built on top of flutter table calender. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+			<p>calendar application built on top of flutter table calender. I build this application as part of own edition <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
 		</td>
 		<td>
 			<div>
@@ -104,7 +104,7 @@
     	<tr>
 		<td>
 			<h3>Tibetan Game(Lundup Journey)</h3>
-			<p>Tibetan single player journey game built with unity game engine. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+			<p>Tibetan single player journey game built with unity game engine. I build this application as part of own edition <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
 		</td>
 		<td>
 			<div>
@@ -117,7 +117,7 @@
     	<tr>
 		<td>
 			<h3>Tibetan Language Learning App</h3>
-			<p>Language learning application built with flutter and flutter bloc state management. I build this application as part of own business <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
+			<p>Language learning application built with flutter and flutter bloc state management. I build this application as part of own edition <a href="https://play.google.com/store/apps/dev?id=5910382695653514663&hl=en_IN&gl=US">KharagEdition</a></p>
 		</td>
 		<td>
 			<div>
