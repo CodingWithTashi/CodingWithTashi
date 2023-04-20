@@ -34,7 +34,7 @@
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
 
-[![Linkedin: kharagkunchok](https://img.shields.io/badge/-kontashi35-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kharagkunchok/)](https://www.linkedin.com/in/kontashi35/)
+[![Linkedin: kharagkunchok](https://img.shields.io/badge/-kharagkunchok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kharagkunchok/)](https://www.linkedin.com/in/kharagkunchok)
 [![GitHub codingwithtashi](https://img.shields.io/github/followers/codingwithtashi?label=follow&style=social)](https://github.com/codingwithtashi)
 <!-- [![YouTube](https://img.shields.io/youtube/channel/views/UCBLzUH7iDyY3pZWslcPJhJA?style=social)](https://youtube.com/c/codingwithtashi)    -->
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://codingwithtashi.medium.com/)   
