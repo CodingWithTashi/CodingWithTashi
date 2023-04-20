@@ -5,7 +5,7 @@
 <a href="https://twitter.com/CodingWithTashi">
   <img align="left" alt="Kunchok Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kontashi35/">
+<a href="https://www.linkedin.com/in/kharagkunchok/">
   <img align="left" alt="Kunchok's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/codingwithtashi">
