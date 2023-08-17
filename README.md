@@ -26,7 +26,7 @@
 
 <a href="https://stackoverflow.com/users/9236525/codingwithtashi"><img src="https://stackoverflow.com/users/flair/9236525.png" width="208" height="58" alt="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-- 🔭 I’m currently working for [Geekyants](https://geekyants.com/).
+- 🔭 I’m currently working for [Luminous](https://www.luminousindia.com/).
 - 🌱 I’m currently learning more about Flutter and Hasura.
 - 💬 Ask me about Flutter/Android.
 - 📱 I build crappy app whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
