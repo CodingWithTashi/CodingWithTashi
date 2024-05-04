@@ -39,6 +39,9 @@
 <!-- [![YouTube](https://img.shields.io/youtube/channel/views/UCBLzUH7iDyY3pZWslcPJhJA?style=social)](https://youtube.com/c/codingwithtashi)    -->
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://codingwithtashi.medium.com/)   
 
+**My stats:**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithtashi&layout=compact&theme=vision-friendly-dark)](https://github.com/codingwithtashi)
+
 
 **Languages and Tools:**  
 
