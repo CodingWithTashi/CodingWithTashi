@@ -29,8 +29,8 @@
 - 🔭 I’m currently working for [Luminous](https://www.luminousindia.com/).
 - 🌱 I’m currently learning more about Android and IOTs.
 - 💬 Ask me about Flutter/Android.
-- 📱 I build crappy app whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
-- 📖 I write shitty post on [medium](https://codingwithtashi.medium.com/). Curated list of most read post [here](#flutter-tutorials) 👇🏼
+- 📱 I build apps whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
+- 📖 I also write posts on [medium](https://codingwithtashi.medium.com/) from time to time. A curated list of most read post [here](#flutter-tutorials) 👇🏼
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
 
