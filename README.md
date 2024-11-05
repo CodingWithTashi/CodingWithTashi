@@ -31,6 +31,7 @@
 - 💬 Ask me about Flutter/Android.
 - 📱 I build apps whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
 - 📖 I also write posts on [medium](https://codingwithtashi.medium.com/) from time to time. A curated list of most read post [here](#flutter-tutorials) 👇🏼
+- 🇺 Hire me on:[Upwork - @kunchok](https://www.upwork.com/fl/kunchok?mp_source=share)
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
 
 
