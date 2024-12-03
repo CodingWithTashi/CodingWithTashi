@@ -27,7 +27,7 @@
 <a href="https://stackoverflow.com/users/9236525/codingwithtashi"><img src="https://stackoverflow.com/users/flair/9236525.png" width="208" height="58" alt="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for codingwithtashi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 - 🔭 I’m currently working for [Luminous](https://www.luminousindia.com/).
-- 🌱 I’m currently learning more about Android and IOTs.
+- 🌱 I'm currently learning more about LLMs using LangChain.
 - 💬 Ask me about Flutter/Android.
 - 📱 I build apps whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
 - 📖 I also write posts on [medium](https://codingwithtashi.medium.com/) from time to time. A curated list of most read post [here](#flutter-tutorials) 👇🏼
