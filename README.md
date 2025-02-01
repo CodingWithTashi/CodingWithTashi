@@ -150,6 +150,19 @@
 			</div>
 		</td>
 	</tr>
+		<tr>
+		<td>
+			<h3>AI Voice Generator</h3>
+			<p>Chrome extension that lets you generate voice from pop up or by selecting text from any website by <a href="https://chromewebstore.google.com/detail/ai-voice-generator/fafbbodhbmmbabbepahkpbkphpejlhmh">KharagEdition</a></p>
+		</td>
+		<td>
+			<div>
+				<a href="https://chromewebstore.google.com/detail/ai-voice-generator/fafbbodhbmmbabbepahkpbkphpejlhmh">
+  <img width="120px" src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/chrome-web-store-icon.png" alt="AI Voice Generator app on Google Chrome" />
+</a>
+			</div>
+		</td>
+	</tr>
 	</tbody>
 </table>
 
