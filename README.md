@@ -89,7 +89,7 @@
 				<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.tibetan_calender&hl=en_IN&gl=US">
   <img width="120px"  src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Tibetan Calendar on Google Play" />
 </a>
-				<a href="https://play.google.com/store/apps/details?id=com.codingwithtashi.tibetan_calender&hl=en_IN&gl=US">
+				<a href="https://apps.apple.com/us/app/tibetan-calendar-app/id6741181925">
   <img width="120px"  src="https://github.com/user-attachments/assets/fa1f715d-c308-4314-ba71-671384956a86" alt="Tibetan Calendar on App Store" />
 </a>
 			</div>
