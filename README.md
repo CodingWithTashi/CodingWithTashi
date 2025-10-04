@@ -17,6 +17,9 @@
 <a href="https://www.facebook.com/kharagedition/">
   <img align="left" alt="Kunchok's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://calendly.com/khakontas33/new-meeting">
+  <img align="left" alt="Kunchok's Meeting" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlehangoutsmeet.svg" />
+</a>
 <!-- <a href="https://www.youtube.com/c/codingwithtashi/">
   <img align="left" alt="Kunchok's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
@@ -33,6 +36,7 @@
 - 📖 I also write posts on [medium](https://codingwithtashi.medium.com/) from time to time. A curated list of most read post [here](#flutter-tutorials) 👇🏼
 - 🇺 Hire me on:[Upwork - @kunchok](https://www.upwork.com/fl/kunchok?mp_source=share)
 - 📫 How to reach me: [Instagram - @kharagkunchok](http://instagram.com/kharagkunchok)
+- 📅 Schedule a meeting with me: [Calendly - Book a Time](https://calendly.com/khakontas33/new-meeting)
 
 
 [![Linkedin: kharagkunchok](https://img.shields.io/badge/-kharagkunchok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kharagkunchok/)](https://www.linkedin.com/in/kharagkunchok)
