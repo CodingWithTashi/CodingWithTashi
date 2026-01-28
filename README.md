@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working for [Luminous](https://www.luminousindia.com/).
 - 🌱 I'm currently learning more about LLMs using LangChain.
-- 💬 Ask me about Flutter/Android.
+- 💬 Ask me about Native Android & Flutter.
 - 📱 I build apps whenever I get free time, [here](#applications-that-are-open-source-and-available-to-download) are some the application that is available to download.👇
 - 📖 I also write posts on [medium](https://codingwithtashi.medium.com/) from time to time. A curated list of most read post [here](#flutter-tutorials) 👇🏼
 - 🇺 Hire me on:[Upwork - @kunchok](https://www.upwork.com/fl/kunchok?mp_source=share)
